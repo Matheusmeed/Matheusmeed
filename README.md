@@ -6,9 +6,9 @@
 
 - HTML
 - CSS
+- JavaScript
 - Bootstrap
 - Git
-- JavaScript
 - Firebase
 - Node.js
 
