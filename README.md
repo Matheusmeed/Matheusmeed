@@ -12,4 +12,4 @@
 - Firebase
 - Node.js
 
-### <a href="https://www.linkedin.com/in/matheus-medeiros-da-silva-6172b5216/">Clique aqui para acessar o meu LinkedIn</a>
+### <a href="https://www.linkedin.com/in/matheus-medeiros-da-silva/">Clique aqui para acessar o meu LinkedIn</a>
