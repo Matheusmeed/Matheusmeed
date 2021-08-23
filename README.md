@@ -10,6 +10,7 @@
 - Bootstrap
 - Git
 - Firebase
-- React.js
+- ReactJS
+- Redux
 
 ### <a href="https://www.linkedin.com/in/matheus-medeiros-da-silva/">Clique aqui para acessar o meu LinkedIn</a>
