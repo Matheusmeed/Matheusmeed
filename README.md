@@ -1,6 +1,6 @@
 # 👋 Olá!
 
-<p>Estou à procura do meu primeiro emprego como desenvolvedor Junior para aprimorar as minhas habilidades e adquirir experiência na área de desenvolvimento que eu amo tanto. Estou cursando Ciência da Computação e estudando bastante para me tornar um desenvolvedor Web Full Stack</p>
+<p>Estou cursando Ciência da Computação e estudando bastante para me tornar um ótimo desenvolvedor Full Stack ✌</p>
 
 ## :rocket: Tecnologias que eu tenho conhecimento
 
