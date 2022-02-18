@@ -11,8 +11,10 @@
 - Git
 - Firebase
 - ReactJS
-- Redux
+- NextJS
+- TypeScript
 - NodeJS
+- Redux
 
 <br/>
 
