@@ -1,6 +1,6 @@
 # 👋 Olá!
 
-<p>Estou cursando Ciência da Computação e estudando bastante para me tornar um ótimo desenvolvedor Full Stack ✌</p>
+<p>Estou cursando Ciência da Computação e estudando bastante para me tornar um ótimo desenvolvedor ✌</p>
 
 ## :rocket: Tecnologias que eu tenho conhecimento
 
