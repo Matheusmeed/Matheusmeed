@@ -4,17 +4,20 @@
 
 ## :rocket: Tecnologias que eu tenho conhecimento
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Git
-- Firebase
 - ReactJS
 - NextJS
+- React Native
+- JavaScript
 - TypeScript
-- NodeJS
+- Material UI
+- Bootstrap
+- Styled-components
 - Redux
+- NodeJS
+- Firebase
+- HTML
+- CSS
+- Git
 
 <br/>
 
