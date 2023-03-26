@@ -23,8 +23,6 @@
 <br/>
 <br/>
 
-![Matheus Medeiros da Silva](https://github-readme-stats.vercel.app/api?username=matheusmeed&show_icons=true&theme=github_dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmeed&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
