@@ -2,7 +2,7 @@
 
 <p>Front-End Developer focused on React.js ✌</p>
 
-<p>I hold a degree in Computer Science and have over 3 years of experience developing scalable, accessible, and user-centered web applications. I specialize in technologies such as React.js, Next.js, TypeScript, and other modern tools from the JavaScript ecosystem.</p>
+<p>I hold a degree in Computer Science and have over 4 years of experience developing scalable, accessible, and user-centered web applications. I specialize in technologies such as React.js, Next.js, TypeScript, and other modern tools from the JavaScript ecosystem.</p>
 
 <p>I actively participate in the entire development cycle, from prototyping to final delivery, always prioritizing clean code, version control with Git, and continuous integration/deployment (CI/CD). I aim to deliver solutions that are functional, elegant, and provide real value to both users and businesses.</p>
 
