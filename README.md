@@ -36,5 +36,5 @@
 <br/>
 <br/>
 
-### <a href="https://www.linkedin.com/in/matheus-medeiros-da-silva/">Clique aqui para acessar o meu LinkedIn</a>
+### <a href="https://www.linkedin.com/in/matheus-medeiros-da-silva/">LinkedIn</a>
 <br/>
