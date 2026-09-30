@@ -1,40 +1,18 @@
-# 👋 Hi!
+# Hi, I'm Matheus 👋
 
-<p>Front-End Developer focused on React.js ✌</p>
+**Frontend Engineer** · React, Next.js & TypeScript · Guarujá, Brazil (UTC-3)
 
-<p>I hold a degree in Computer Science and have over 4 years of experience developing scalable, accessible, and user-centered web applications. I specialize in technologies such as React.js, Next.js, TypeScript, and other modern tools from the JavaScript ecosystem.</p>
+I build fast, immersive web products, from the first click to the closed deal. Since 2023, I've led frontend development at Elephant Skin for real estate platforms, including BEES, used by 11 clients: interactive presentations with masterplans and 360° spins, and the proposal tools brokers use to sell.
 
-<p>I actively participate in the entire development cycle, from prototyping to final delivery, always prioritizing clean code, version control with Git, and continuous integration/deployment (CI/CD). I aim to deliver solutions that are functional, elegant, and provide real value to both users and businesses.</p>
+## Highlights
 
-<p>I’m driven by challenges, naturally collaborative, and strongly believe in continuous growth through feedback, best practices, and lifelong learning.</p>
+- **An entire condominium in 360°, without the wait.** 764 homes with 150 frames each, over 40 GB of images. Priority preloading and a Web Worker let buyers rotate any home before its spin finishes loading, cutting load times by up to 40%.
+- **Proposals that report back.** Brokers build proposals inside the presentation, buyers open them without logging in, and every visit becomes a readable history for the broker.
 
-<br/>
+## Stack
 
-## :rocket: Technical Skills
+React · Next.js · TypeScript · JavaScript · Styled Components · Tailwind CSS · Canvas · SVG · Google Maps API · Web Workers · Jest · Git
 
-- React.js
-- Next.js
-- JavaScript (ES6+)
-- TypeScript
-- HTML | CSS
-- Styled-components
-- Tailwind CSS
-- Redux
-- Axios
-- Git | GitHub
-- Vite | Webpack
-- Jest
-- RESTful APIs
-- Agile/Scrum
-- Node.js
-- Responsive Design
-- SASS/LESS
-- Testing/Debugging
-- UI/UX Design
-- CI/CD
+## Links
 
-<br/>
-<br/>
-
-### <a href="https://www.linkedin.com/in/matheus-medeiros-da-silva/">LinkedIn</a>
-<br/>
+[Portfolio](PORTFOLIO_URL) · [LinkedIn](https://www.linkedin.com/in/matheus-medeiros-da-silva/) · [E-mail](mailto:mms.medeiros12@gmail.com)
